@@ -1,0 +1,9 @@
+Django==1.11
+django-bootstrap-form==3.3
+django-helpdesk==0.2.1
+django-markdown-deux==1.0.5
+email-reply-parser==0.5.9
+markdown2==2.3.4
+pytz==2017.2
+simplejson==3.11.1
+six==1.11.0
